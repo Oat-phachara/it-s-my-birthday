@@ -7,18 +7,10 @@
 .container {
   background-image: linear-gradient(
     to right top,
-    #d16ba5,
-    #c777b9,
-    #ba83ca,
-    #aa8fd8,
-    #9a9ae1,
-    #8aa7ec,
-    #79b3f4,
-    #69bff8,
-    #52cffe,
-    #41dfff,
-    #46eefa,
-    #5ffbf1
+    #ada996,
+    #dbdbdb,
+    #eaeaea,
+    #f2f2f2
   );
   height: 100vh;
   width: 100%;
@@ -37,12 +29,12 @@
 .countdown__title {
   font-size: 3rem;
   font-weight: 700;
-  color: #ffffff;
+  color: #a19797;
 }
 .countdown__sub-title {
   font-size: 1rem;
   font-weight: 400;
-  color: #ffffff;
+  color: #b3b1b1;
 }
 .countdown__group {
   margin-top: 40px;
@@ -52,7 +44,7 @@
   gap: 40px;
 }
 .countdown__card {
-  background-color: #79b3f4;
+  background-color: #e8cbc0c2;
   height: 160px;
   width: 160px;
   border-radius: 20px;
